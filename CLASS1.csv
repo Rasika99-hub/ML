@@ -1,0 +1,31 @@
+RollNo,Name,Gender,Age,Branch,Year,Semester,CGPA,Email,Phone,City,State,Country,Hostel,Attendance%,Backlogs,Scholarship,Club,Advisor,Status
+U001,Aarav Sharma,M,19,CSE,1,2,8.7,aarav.sharma@uni.edu,9876543210,Delhi,Delhi,India,Yes,92,0,No,Coding Club,Dr. Sen,Active
+U002,Ananya Verma,F,18,IT,1,2,8.2,ananya.verma@uni.edu,9876543211,Mumbai,MH,India,No,89,0,Yes,Robotics,Dr. Rao,Active
+U003,Rohan Mehta,M,20,EEE,2,4,7.9,rohan.mehta@uni.edu,9876543212,Pune,MH,India,Yes,85,1,No,Music Club,Dr. Nair,Active
+U004,Siya Gupta,F,19,ME,1,2,8.5,siya.gupta@uni.edu,9876543213,Kolkata,WB,India,Yes,91,0,No,Dance Club,Dr. Bose,Active
+U005,Krish Patel,M,21,CSE,3,6,9.1,krish.patel@uni.edu,9876543214,Ahmedabad,GJ,India,No,94,0,Yes,Coding Club,Dr. Sen,Active
+U006,Isha Singh,F,20,ECE,2,4,8.0,isha.singh@uni.edu,9876543215,Lucknow,UP,India,Yes,87,0,No,Drama Club,Dr. Menon,Active
+U007,Arjun Reddy,M,22,CIVIL,4,8,7.5,arjun.reddy@uni.edu,9876543216,Hyderabad,TS,India,No,82,2,No,Sports,Dr. Pillai,Active
+U008,Tanya Kapoor,F,19,CSE,1,2,8.9,tanya.kapoor@uni.edu,9876543217,Jaipur,RJ,India,Yes,95,0,Yes,Coding Club,Dr. Sen,Active
+U009,Ritik Yadav,M,20,IT,2,4,7.8,ritik.yadav@uni.edu,9876543218,Varanasi,UP,India,No,83,1,No,Gaming Club,Dr. Rao,Active
+U010,Muskan Jain,F,21,EEE,3,6,8.4,muskan.jain@uni.edu,9876543219,Indore,MP,India,Yes,90,0,Yes,Literature Club,Dr. Nair,Active
+U011,Devansh Kumar,M,18,CSE,1,2,8.6,dev.kumar@uni.edu,9876543220,Patna,BH,India,Yes,93,0,No,Coding Club,Dr. Sen,Active
+U012,Riya Sinha,F,19,ECE,1,2,8.3,riya.sinha@uni.edu,9876543221,Ranchi,JH,India,No,88,0,No,Drama Club,Dr. Menon,Active
+U013,Vedant Khanna,M,22,ME,4,8,7.6,ved.khanna@uni.edu,9876543222,Nagpur,MH,India,Yes,84,1,No,Sports,Dr. Bose,Active
+U014,Pragya Malhotra,F,20,CIVIL,2,4,7.7,pragya.malhotra@uni.edu,9876543223,Chandigarh,CH,India,No,80,2,Yes,Art Club,Dr. Pillai,Active
+U015,Shivansh Rao,M,21,IT,3,6,8.1,shivansh.rao@uni.edu,9876543224,Bhopal,MP,India,Yes,86,0,No,Gaming Club,Dr. Rao,Active
+U016,Nisha Thakur,F,18,CSE,1,2,9.0,nisha.thakur@uni.edu,9876543225,Shimla,HP,India,Yes,96,0,Yes,Coding Club,Dr. Sen,Active
+U017,Harshit Saxena,M,20,EEE,2,4,7.9,harshit.saxena@uni.edu,9876543226,Kanpur,UP,India,No,82,1,No,Music Club,Dr. Nair,Active
+U018,Simran Kaur,F,19,ECE,1,2,8.8,simran.kaur@uni.edu,9876543227,Amritsar,PB,India,Yes,94,0,No,Robotics,Dr. Menon,Active
+U019,Amit Joshi,M,22,CIVIL,4,8,7.4,amit.joshi@uni.edu,9876543228,Nashik,MH,India,No,79,3,No,Sports,Dr. Pillai,Active
+U020,Khushi Desai,F,21,ME,3,6,8.2,khushi.desai@uni.edu,9876543229,Surat,GJ,India,Yes,89,0,Yes,Dance Club,Dr. Bose,Active
+U021,Lakshya Kapoor,M,18,CSE,1,2,8.5,lakshya.kapoor@uni.edu,9876543230,Delhi,Delhi,India,Yes,92,0,No,Coding Club,Dr. Sen,Active
+U022,Shruti Pandey,F,20,IT,2,4,7.8,shruti.pandey@uni.edu,9876543231,Varanasi,UP,India,Yes,85,1,No,Literature Club,Dr. Rao,Active
+U023,Aaditya Jain,M,21,ECE,3,6,8.4,aaditya.jain@uni.edu,9876543232,Kota,RJ,India,No,87,0,No,Robotics,Dr. Menon,Active
+U024,Priyanka Das,F,19,EEE,1,2,8.7,priyanka.das@uni.edu,9876543233,Kolkata,WB,India,Yes,92,0,Yes,Music Club,Dr. Nair,Active
+U025,Rudra Singh,M,22,ME,4,8,7.5,rudra.singh@uni.edu,9876543234,Jabalpur,MP,India,No,81,2,No,Sports,Dr. Bose,Active
+U026,Anika Jain,F,20,CIVIL,2,4,8.1,anika.jain@uni.edu,9876543235,Jaipur,RJ,India,Yes,90,0,No,Art Club,Dr. Pillai,Active
+U027,Vihaan Sharma,M,21,CSE,3,6,9.2,vihaan.sharma@uni.edu,9876543236,Mumbai,MH,India,Yes,97,0,Yes,Coding Club,Dr. Sen,Active
+U028,Sanya Oberoi,F,18,IT,1,2,8.3,sanya.oberoi@uni.edu,9876543237,Gurgaon,HR,India,Yes,88,0,No,Drama Club,Dr. Rao,Active
+U029,Karan Gill,M,20,ECE,2,4,7.9,karan.gill@uni.edu,9876543238,Ludhiana,PB,India,No,83,1,No,Music Club,Dr. Menon,Active
+U030,Meera Acharya,F,19,EEE,1,2,8.6,meera.acharya@uni.edu,9876543239,Bhubaneswar,OD,India,Yes,91,0,Yes,Literature Club,Dr. Nair,Active
