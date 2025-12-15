@@ -4,7 +4,7 @@ import random
 names = ['Rasika', 'Shruthi', 'Rishabh', 'Prerona', 'Aadi','Hari']
 branches = ['COE', 'IT', 'SE', 'MCE','IEE']
 years = [1, 2, 3, 4]
-cgpas = [7.8, 8.5, 9.0, 9.1, 9.3, 9.5,7.9]
+cgpas = [7.8, 8.5, 9.0, 9.1, 9.3, 9.5,7.8]
 
 
 with open('university_records.csv', 'w', newline='') as csvfile:
